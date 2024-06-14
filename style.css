@@ -14,3 +14,11 @@
 {
     text-align: center;
 }
+div > p
+{
+    background-color: plum;
+}
+*{
+    background-color: lightcoral;
+    text-align: center;
+}
